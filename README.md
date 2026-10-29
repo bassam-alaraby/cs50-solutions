@@ -16,3 +16,4 @@ My projects and solutions for Harvard's CS50 courses.
 |---|---|
 | Search | [cs50w-search](https://github.com/bassam-alaraby/cs50w-search) |
 | Wiki | [cs50w-wiki](https://github.com/bassam-alaraby/cs50w-wiki) |
+| commerce | [cs50w-commerce](https://github.com/bassam-alaraby/cs50w-commerce) |
